@@ -1,4 +1,4 @@
-module go.etcd.io/gofail
+module github.com/henrybear327/gofail
 
 go 1.21
 
